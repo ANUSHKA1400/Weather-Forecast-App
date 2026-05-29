@@ -31,8 +31,8 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/weather-forecast-app.git
-cd weather-forecast-app
+git clone git clone https://github.com/ANUSHKA1400/Weather-Forecast-App.git
+cd Weather-Forecast-App
 Obtain an OpenWeatherMap API key:
 
 Sign up at OpenWeatherMap.
