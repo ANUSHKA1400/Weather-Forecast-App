@@ -1,5 +1,5 @@
-Weather Forecast Application
-Overview
+# Weather Forecast Application
+## Overview
 This is a simple weather forecast web application that allows users to:
 
 Search for current weather by city name.
@@ -12,7 +12,7 @@ Keep track of recently searched cities for quick access.
 
 The application fetches data from the OpenWeatherMap API and displays weather information including temperature, humidity, wind speed, and weather conditions.
 
-Features
+## Features
 City Search: Enter a city name to get current weather and 5-day forecast.
 
 Current Location: Use your device’s geolocation to fetch weather data for your current position.
@@ -25,7 +25,7 @@ Dark/Light Theme Toggle (if implemented).
 
 Responsive design compatible with desktop and mobile devices.
 
-Setup and Usage
+## Setup and Usage
 Clone the repository:
 
 bash
@@ -55,12 +55,12 @@ Open index.html in your web browser.
 
 No server setup is required unless you want to use one.
 
-Dependencies
+## Dependencies
 The app uses only vanilla JavaScript and standard web technologies (HTML, CSS).
 
 No external libraries or frameworks are required.
 
-Project Structure
+## Project Structure
 bash
 Copy
 Edit
@@ -72,14 +72,14 @@ Edit
 ├── README.md           # This documentation
 ├── package.json        # Optional (if using Node/npm)
 ├── package-lock.json   # Optional
-Notes
+## Notes
 The app uses the OpenWeatherMap’s free API tier, which has rate limits.
 
 Make sure to keep your API key secure and do not expose it publicly in production.
 
 The app relies on browser geolocation; make sure to allow location permissions.
 
-License
+## License
 This project is open source and available under the MIT License.
 
 Made by-[Anushka Mitra]
